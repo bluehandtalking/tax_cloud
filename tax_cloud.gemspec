@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
 #  s.add_runtime_dependency 'savon', '0.9.6'
 # changed savon to  '1.1.0' for bundler
 
-s.add_runtime_dependency 'savon', '1.1.0'
+s.add_runtime_dependency 'savon', '1.2.0'
 
   # Development dependencies
   s.add_development_dependency 'rake', '>= 0.9.2'
